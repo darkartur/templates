@@ -1,0 +1,24 @@
+{
+  "name": "templates",
+  "version": "1.0.0",
+  "description": "An expiremental template machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darkartur/templates.git"
+  },
+  "keywords": [
+    "html5",
+    "templates",
+    "data-binding"
+  ],
+  "author": "Arthur Udalov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkartur/templates/issues"
+  },
+  "homepage": "https://github.com/darkartur/templates"
+}
